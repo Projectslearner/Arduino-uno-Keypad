@@ -68,19 +68,15 @@ This project demonstrates how to interface a 4x3 matrix keypad with an Arduino. 
 2. **User Input Interfaces:** Utilized in various electronic devices requiring numeric or character input.
 3. **Interactive Projects:** Employed in DIY projects and prototypes requiring a keypad for user interaction.
 
-## Support
-
-For any issues or further assistance, please contact us:
-
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-- ▶️ YouTube
-- 📘 LinkedIn
-
-Made for you with ❣️ from ProjectsLearner.
-
 ---
 
-Feel free to ask for any modifications or additional details you'd like to include!
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
+
+## Made for you with ❣️ from ProjectsLearner
